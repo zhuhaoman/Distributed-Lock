@@ -1,0 +1,7 @@
+zookeeper:
+  address: 192.168.2.224:2181
+
+  retryCount: 5
+  elapsedTimeMs: 5000
+  sessionTimeoutMs: 3000
+  connectionTimeoutMs: 10000
